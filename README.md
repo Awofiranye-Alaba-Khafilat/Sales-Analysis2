@@ -1,6 +1,7 @@
 # Bright Star Sales Analysis
 
 ### Project Overview
+---
 
 This data analysis project aim to provide insights into the sales performance of Bright Star sales analysis over the past year, by analyzing various aspects of the sales data, we seek to identify trends, the top 10 products, the sales rep, the shipping fee,  the sales region, transaction amount, top cities of the Company's performance.
 
@@ -66,7 +67,8 @@ The analysis results are summarized as follows:
 
 |Heading1|Heading2|
 |-------|---------|
-
+|content1|Content2|
+|Excel|Powerpoint|
 
   
 
