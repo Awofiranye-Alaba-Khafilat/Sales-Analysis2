@@ -4,6 +4,9 @@
 
 This data analysis project aim to provide insights into the sales performance of Bright Star sales analysis over the past year, by analyzing various aspects of the sales data, we seek to identify trends, the top 10 products, the sales rep, the shipping fee,  the sales region, transaction amount, top cities of the Company's performance.
 
+
+![Bright star 2014 analysis](https://github.com/user-attachments/assets/00895f70-2ab2-4550-8f72-0ed35494cb52)
+
 ### Data Source
 
 The primary data set used for this data is the "2014 sales analyis.xlsx", containing detailed information about each sales made by the company.
@@ -12,6 +15,7 @@ The primary data set used for this data is the "2014 sales analyis.xlsx", contai
 
 - Excel (Data Cleaning, Data Analysis, Creating a Report)
 - Power Point - (Presentation)
+  
 
   ### Data Cleaning/Preparation
 
