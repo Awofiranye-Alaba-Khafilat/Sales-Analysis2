@@ -20,6 +20,49 @@ The primary data set used for this data is the "2014 sales analyis.xlsx", contai
   2. Handling missing values.
   3. Data Cleaning and formatting.
  
-  ###
+  ### Exploratory Data Analysis  (EDA)
+
+- What is the overall sales Trend?
+- Which Product are top sellers?
+- What are the Peak sales periods?
+- What are the top 10 Products?
+- Which region has the top Sales?
+- Which City has the top Sales
+- Which Payment type has the highest credit?
+  
+
+### Data Analysis
+
+Include some interesting features worked with
+'''Excel
+=TEXT([@[Sales Date]], "MMM")
+
+### Results/Findings
+
+The analysis results are summarized as follows:
+1. The Company has the higest sales in December for the year.
+2. Product Category Coffee is the best performing category both in reveneue and profit
+3. Customer Team with high lifetime value should be targetted for marketing efforts
+4. The New York City has the highest sales and revenue making the company generate more profit from there
+5. North region has the higest revenue.
+
+### Recommendations
+
+- Based on the Analysis, we recommend the following actions:
+- Investigate reasons for dips in February to March, replicate strategies that drove growth in April and May, and implement targets campaigns to sustain moments in the coming months
+- Focus on strengthening sales for high-performing products like  Coffee, Curry Sauce, Marmalade and so on. Improve strategies for low performers and maintain consistency for mid-tier - products.
+- Enhance e-commerce platforms and digital marketing to further boost online sales.
+- Develop tailored strategies to boost sales in West and South.
+- Target cities that has low sales with localized strategies to boost sales.
+- Recognize top performers like Compaany D, Company H, Company BB, Company F  Price. Support lower-performing Customers with additional resources, training, or motivation to help improve sales.
+
+
+💻
+🖱️
+
+|Heading1|Heading2|
+|-------|---------|
+
+
   
 
